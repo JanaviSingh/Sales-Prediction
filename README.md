@@ -118,5 +118,3 @@ If you found this project useful or interesting:
 📬 Reach out for collaboration or feedback!
 
 ---
-
-Let me know if you'd like a version with badges, emojis minimized, or specific images inserted!
