@@ -26,7 +26,7 @@ We aim to assist businesses in making **data-driven sales strategies**, improve 
 ```
 ├── Sales_Prediction.ipynb     # Jupyter Notebook (Full Implementation)
 ├── dataset/                   # Cleaned data used for training/testing
-├── model/                     # Saved Random Forest Model (.pkl)
+├── model/                     # Saved Random Forest Model
 ├── report/                    # Research paper style documentation
 └── README.md                  # Project Documentation
 ```
