@@ -1,11 +1,6 @@
 # 📊 Electronic Sales Prediction Using ML | A Comparative Study
 
 > 🎯 *Accurately forecasting electronic product sales using machine learning models to support inventory planning, pricing, and revenue forecasting.*
-
-![Project Banner](https://img.shields.io/badge/Machine_Learning-Sales_Prediction-blue?style=for-the-badge&logo=python)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Tech Stack](https://img.shields.io/badge/Tech-ML%2C%20Pandas%2C%20Matplotlib%2C%20Scikit--learn-orange?style=for-the-badge)
-
 ---
 
 ## 📌 Overview
@@ -61,11 +56,6 @@ We aim to assist businesses in making **data-driven sales strategies**, improve 
 | 🎧 **Top Product Types** – Maximize inventory efficiency |
 | 👥 **Loyalty Insights** – Explore behavior of repeat customers |
 
-<div align="center">
-  <img src="images/unit_price_distribution.png" alt="Unit Price Distribution" width="45%">
-  <img src="images/payment_method.png" alt="Payment Method" width="45%">
-</div>
-
 ---
 
 ## 🧠 How It Works
@@ -118,12 +108,6 @@ jupyter notebook Sales_Prediction.ipynb
 |------|-------|
 | Janavi Singh | janavi.22bce8501@vitapstudent.ac.in |
 | Sakshi Sinha | sakshi.22bce8875@vitapstudent.ac.in |
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
