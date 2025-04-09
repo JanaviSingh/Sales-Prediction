@@ -104,10 +104,9 @@ jupyter notebook Sales_Prediction.ipynb
 
 ## 👩‍💻 Authors
 
-| Name | Email |
-|------|-------|
-| Janavi Singh | janavi.22bce8501@vitapstudent.ac.in |
-| Sakshi Sinha | sakshi.22bce8875@vitapstudent.ac.in |
+
+| Janavi Singh | 
+| Sakshi Sinha | 
 
 ---
 
